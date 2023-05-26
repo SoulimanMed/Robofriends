@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, rgb(210, 206, 218) , rgb(32, 33, 35));
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.robotNameEamail{
+  color: white;
+}
+.robotNameEamail:hover {
+  color: black;
 }
