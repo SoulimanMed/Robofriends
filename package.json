@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://soulimanmed.github.io/Robofriends.github.io",
+  "homepage": "https://soulimanmed.github.io/Robofriends/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
